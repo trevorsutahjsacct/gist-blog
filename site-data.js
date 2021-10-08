@@ -1,9 +1,9 @@
 
 const siteData =  {
-  "title": "Trevors Blog",
-  "description":"Fortitudine vincimus",
-  "GITHUB_USERNAME":"trevorhere",
-  'GIST_LIST_ID':'3797a38c4fb8b5a65f24aac2631eb3ed',
+  "title": "MY NEW COOL BLOG",
+  "description":"A WAY COOL BLOG",
+  "GITHUB_USERNAME":"trevorsutahjsacct",
+  'GIST_LIST_ID':'eef044d87d661883bb9e67f33232421b',
   'useCTA': true,
   "home_site_url":{ 
     "link": "https://trevorlane.dev",
